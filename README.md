@@ -9,4 +9,4 @@ A list of dogs, three dog objects ahd a collection
 
 
 3. Can you spot the Comparator constructor call? Where is the class definition for the Comparator?
-The class definiton exist on line 16 where the new Comparator<Animal> object is created.
+The constructor call exist on line 16 where the new Comparator<Animal> object is created. The class definition is built into java and imported
